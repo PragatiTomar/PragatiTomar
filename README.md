@@ -18,7 +18,7 @@ Pragati</a></h1>
 <h3 align="center">An aspiring software developer from Uttar Pradesh &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/7f/7f/6f/7f7f6f7e0380576800f637777fa300bd.jpg">
+  <img align="right" top="500" height="250" width="300" alt="GIF" src="https://i.pinimg.com/originals/7f/7f/6f/7f7f6f7e0380576800f637777fa300bd.jpg">
 </a>
 
 - 🔭 I’m currently a student at KIET Group of Institutions
@@ -33,7 +33,7 @@ Pragati</a></h1>
 
 - 📫 How to reach me **pragatitomar2326@gmail.com**
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
