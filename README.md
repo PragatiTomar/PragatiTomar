@@ -34,4 +34,10 @@ Pragati</a></h1>
 
 </p>
 
-Last Edited on: 20/08/2022
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PragatiTomar&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiTomar&langs_count=5&theme=tokyonight)]()
+
+
+Last Edited on: 06/10/2022
