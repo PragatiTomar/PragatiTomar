@@ -34,10 +34,10 @@ Pragati</a></h1>
 
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PragatiTomar&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PragatiTomar&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiTomar&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiTomar&langs_count=5&theme=tokyonight)]() -->
 
 
 Last Edited on: 06/10/2022
